@@ -1,0 +1,1 @@
+alert('Marvel or DC')
